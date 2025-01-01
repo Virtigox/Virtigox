@@ -31,10 +31,11 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 
 ## 🌏 Beyond Code
 
-- 🏫 Volunteer: Collaborating with grassroots organizations to improve online education in Myanmar.  
+- 🏫 Volunteer: Collaborated with grassroots organizations to improve online education in Myanmar.  
 - 🌍 International Club Member: Sharing insights on Asian society and cultural differences.  
 - 🎮 Gamer: Exploring strategy and simulation games in my downtime.
 - 🌏 Lowkey-Economist: Pondering different schools of economics & reflecting on current psychosocial events.
+- 🏋 Fitness Enthusiast: Physical fitness is my building block of mental strength.
 
 ---
 
