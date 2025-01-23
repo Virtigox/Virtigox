@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 
 - **LinkedIn**: [Nyan Linn Htun](https://www.linkedin.com/in/nyan-linn-htun-53a488251/)  
 - **GitHub**: [Virtigox](https://github.com/Virtigox)
-- **Instagram**: [nathan.lih](https://www.instagram.com/nathan.lih?igsh=MWMweDd5amYxYmtrcQ==)
 
 ---
 
