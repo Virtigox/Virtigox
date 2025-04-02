@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 
 - 🔭 **Current Focus**: Software Engineering & Data Science.
 - 🌱 **Learning**: Data Structure And Algorithm, Economics, and Artificial Intelligence.
-- 📚 **Education**:  
-  - **Quincy College** | Bachelor of Science in Computer Science | GPA: 4.0  
+- 📚 **Education**:
+  - **University of Massachusett Boston** | Bachelor of Science in Computer Science(freshman) | GPA: 3.7  
+  - **Quincy College** | Bachelor of Science in Computer Science(on going) | GPA: 4.0  
   - Member of **Phi Theta Kappa Honor Society**
 - 💼 **Professional Experience**:  
   - Technical Assistant (Volunteer): Supporting online education platforms.  
