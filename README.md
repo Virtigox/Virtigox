@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 - 💼 **Professional Experience**:  
   - Technical Assistant (Volunteer): Supporting online education platforms.  
   - Data Entry & Management: Ensuring database accuracy and efficiency.  
-  - Sushi Chef: Developing teamwork and problem-solving skills under pressure.
+  - Membership Sales Ambassador: Pitching memberships additional services, and solve customers' issues.
+  - Computing Sales & Training Expert: Driving the sales of Qualcomm SOCs inside devices, and training other sales associates about Qualcomm brand.
 
 
 ## 💻 Skills and Technologies
